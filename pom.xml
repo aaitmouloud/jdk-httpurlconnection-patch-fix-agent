@@ -4,7 +4,7 @@
 
     <groupId>com.github.aaitmouloud</groupId>
     <artifactId>jdk-httpurlconnection-patch-fix-agent</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>JDK HttpUrlConnection PATCH fix Agent</name>
@@ -155,7 +155,7 @@
     <scm>
         <url>https://github.com/aaitmouloud/jdk-httpurlconnection-patch-fix-agent.git</url>
         <developerConnection>scm:git:git@github.com:aaitmouloud/jdk-httpurlconnection-patch-fix-agent.git</developerConnection>
-        <tag>jdk-httpurlconnection-patch-fix-agent-1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
