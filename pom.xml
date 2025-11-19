@@ -8,6 +8,7 @@
     <packaging>jar</packaging>
 
     <name>JDK HttpUrlConnection PATCH fix Agent</name>
+    <description>A Java Agent that patches HttpUrlConnection in order to allow PATCH HTTP method.</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -124,7 +125,6 @@
 
 
     <url>https://github.com/aaitmouloud/jdk-httpurlconnection-patch-fix-agent</url>
-    <description>Collection Example plugin for Springfox.</description>
 
     <licenses>
         <license>
